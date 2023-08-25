@@ -40,8 +40,8 @@
 
 | Title | Submited to | Dates | Status | Code |
 | ----- | ----------- | ----- | ------ | ---- |
-| Conference Paper 2 | The Chinese Conference on Pattern Recognition and Computer Vision, *PRCV* | Jun 2023 | Submited | TBD | <!-- RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems -->
-| [IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10147244) | IEEE Transactions on Circuits and Systems for Video Technology | Jun 2023 | Accepted | [Link](https://github.com/Ecalpal/IterDepth) |
+| [RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems](https://arxiv.org/abs/2308.10569) | *Arxiv* | Aug 2023 | Online | TBD | <!-- RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems -->
+| [IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10147244) | IEEE Transactions on Circuits and Systems for Video Technology | Jun 2023 | Online | [Link](https://github.com/Ecalpal/IterDepth) |
 | OER-Net: A Lightweight Refinement Network for Edge-preserving Optical Flow | Pattern Recognition| Jun 2023 | minor revise (3) | TBD |
 | Conference Paper 1 | Conference on Neural Information Processing Systems, *NeurIPS* | May 2023 | Under Review | TBD |
 | [Parallel multiscale context-based edge-preserving optical flow estimation with occlusion detection](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002770) | Signal Processing: Image Communication | Feb 2022 | Published | [Link](https://github.com/PCwenyue/PMC-PWC)|
