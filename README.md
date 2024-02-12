@@ -39,7 +39,7 @@
 #### ✏️ Recent articles ✏️
 
 | Title | Journal / conference | Update Date | Status | Code |
-| ----- | ----------- | ----------- | ------ | ---- |
+| ----- | -------------------- | ----------- | ------ | ---- |
 | Self-supervised Monocular Depth Estimation with Dual-path Encoders and Offset Field Interpolation | IEEE Transactions on Image Processing | Feb 2024 | Major revision (1) | TBD |
 | [RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems](https://arxiv.org/abs/2308.10569) | *Arxiv* & ICIP2024 | Aug 2023 & Feb 2024 | Online & Submited | TBD | <!-- RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems -->
 | [IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10147244) | IEEE Transactions on Circuits and Systems for Video Technology | Jan 2024 | Published | [Link](https://github.com/Ecalpal/IterDepth) |
