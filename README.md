@@ -44,6 +44,6 @@
 | [RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems](https://arxiv.org/abs/2308.10569) | *Arxiv* & ICIP2024 | Aug 2023 & Feb 2024 | Online & Submited | TBD | <!-- RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems -->
 | [IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10147244) | IEEE Transactions on Circuits and Systems for Video Technology | Jan 2024 | Published | [Link](https://github.com/Ecalpal/IterDepth) |
 | OER-Net: A Lightweight Refinement Network for Edge-preserving Optical Flow | Pattern Recognition| Jun 2023 | Minor revision (3) | TBD |
-| [Parallel multiscale context-based edge-preserving optical flow estimation with occlusion detection](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002770) | Signal Processing: Image Communication | Feb 2022 | Published | [Link](https://github.com/PCwenyue/PMC-PWC)|
+| [Parallel Multiscale Context-based Edge-preserving Optical Flow Estimation with Occlusion Detection](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002770) | Signal Processing: Image Communication | Feb 2022 | Published | [Link](https://github.com/PCwenyue/PMC-PWC)|
 
 If you want to know more, please refer to the my [website](https://ecalpal.github.io). 🚀 *coming soon*
