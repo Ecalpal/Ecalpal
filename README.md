@@ -13,18 +13,13 @@
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Pursuing the Ph.D. degree with the School of Instrumentation and Optoelectronic Engineering, Beihang University.
-<!-- - [My website](https://ecalpal.github.io) 🚀 *coming soon* -->
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
-<!-- - Depth Estimation
-- Robust Strategy -->
+- Depth Estimation
 - Multi-Sensor Fusion
 - Multi-Task Learning
-<!-- #### 🌻 I am studying 🌻
-- IELTS
-- French
-- German -->
+
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
@@ -40,10 +35,10 @@
 
 | Title | Journal / conference | Update Date | Status | Code |
 | ----- | -------------------- | ----------- | ------ | ---- |
+| [Real-time Monocular Depth Estimation on Embedded Systems](https://arxiv.org/abs/2308.10569) | IEEE International Conference on Image Processing, ICIP2024 | Jun 2024 | Accepted | TBD |
 | Self-supervised Monocular Depth Estimation with Dual-path Encoders and Offset Field Interpolation | IEEE Transactions on Image Processing | Feb 2024 | Major revision (1) | TBD |
-| [RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems](https://arxiv.org/abs/2308.10569) | *Arxiv* & ICIP2024 | Aug 2023 & Feb 2024 | Online & Submited | TBD | <!-- RT-MonoDepth: Real-time Monocular Depth Estimation on Embedded Systems -->
 | [IterDepth: Iterative Residual Refinement for Outdoor Self-supervised Multi-frame Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10147244) | IEEE Transactions on Circuits and Systems for Video Technology | Jan 2024 | Published | [Link](https://github.com/Ecalpal/IterDepth) |
 | OER-Net: A Lightweight Refinement Network for Edge-preserving Optical Flow | Pattern Recognition| Jun 2023 | Minor revision (3) | TBD |
 | [Parallel Multiscale Context-based Edge-preserving Optical Flow Estimation with Occlusion Detection](https://www.sciencedirect.com/science/article/abs/pii/S0923596521002770) | Signal Processing: Image Communication | Feb 2022 | Published | [Link](https://github.com/PCwenyue/PMC-PWC)|
 
-If you want to know more, please refer to the my [website](https://ecalpal.github.io). 🚀 *coming soon*
+<!-- - If you want to know more, please refer to the my [website](https://ecalpal.github.io). 🚀 *coming soon* -->
