@@ -35,7 +35,7 @@
 
 #### ✏️ Recent articles ✏️
 
-| Title | Journal / conference | Update Date | Status | Code |
+| Title | Journal / Conference | Update Date | Status | Code |
 | ----- | -------------------- | ----------- | ------ | ---- |
 | [Real-time Monocular Depth Estimation on Embedded Systems](https://ieeexplore.ieee.org/document/10648152) | IEEE International Conference on Image Processing, ICIP2024 | Sep 2024 | Published | [Link](https://github.com/Ecalpal/RT-MonoDepth) |
 | Self-supervised Monocular Depth Estimation with Dual-path Encoders and Offset Field Interpolation | IEEE Transactions on Image Processing | Sep 2024 | Major revision (2) | TBD |
