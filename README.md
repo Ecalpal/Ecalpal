@@ -15,9 +15,8 @@
 <!-- <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" /> -->
  
  
-#### 🌱 Things I am currently working on 🌱 : 
-- Pursuing the Ph.D. degree with the School of Instrumentation and Optoelectronic Engineering, Beihang University.
- 
+#### 🌱 About me 🌱 : 
+- PhD from the School of Instrumentation and Optoelectronic Engineering, Beihang University.
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Depth Estimation
